@@ -21,9 +21,9 @@ View project's final [presentation](https://docs.google.com/presentation/d/1HKak
 
 ## Data
 - Model networks:
-    - [Erdős–Rényi](https://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93R%C3%A9nyi_model)
-    - [Random Regular](https://en.wikipedia.org/wiki/Random_regular_graph)
-    - [Barabási–Albert](https://en.wikipedia.org/wiki/Barab%C3%A1si%E2%80%93Albert_model)
-    - [Watts–Strogatz](https://en.wikipedia.org/wiki/Watts%E2%80%93Strogatz_model)
+  - [Erdős–Rényi](https://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93R%C3%A9nyi_model)
+  - [Random Regular](https://en.wikipedia.org/wiki/Random_regular_graph)
+  - [Barabási–Albert](https://en.wikipedia.org/wiki/Barab%C3%A1si%E2%80%93Albert_model)
+  - [Watts–Strogatz](https://en.wikipedia.org/wiki/Watts%E2%80%93Strogatz_model)
 - Human brain connectomes courtesy of the [PIT Bioinformatics group](https://braingraph.org/cms/download-pit-group-connectomes/);
 - C. Elegans connectomes courtesy of [Neurodata](https://neurodata.io/project/connectomes/).
