@@ -11,13 +11,13 @@ View project's final [presentation](https://docs.google.com/presentation/d/1HKak
 
 
 ## Inside
-- Network portrait implementation;
-- Support for directed & undirected graphs;
-- Network portrait heatmap plots;
-- Calculation of KL-divergence & Jensen-Shannon divergence;
-- Portraits of model (regular & random) networks;
-- Animations of model network portraits across parameter ranges;
-- Implementation of attacks on networks (gradual node removal) in different modes.
+- Network portrait implementation
+- Support for directed & undirected graphs
+- Network portrait heatmap plots
+- Calculation of KL-divergence & Jensen-Shannon divergence
+- Portraits of model (regular & random) networks
+- Animations of model network portraits across parameter ranges
+- Implementation of attacks on networks (gradual node removal) in different modes
 
 ## Data
 - Model networks:
