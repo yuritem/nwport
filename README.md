@@ -2,12 +2,21 @@
 
 **Network portrait** is matrix $B$ constructed from a graph such that $B_{l,k}$ is the number of nodes having $k$ nodes at a distance $l$. It encodes a lot of the network's structural properties.
 
+Network portraits offer a great way to compare networks both visually and numerically.
+
 This repository represents the research work done in proceedings of Idea's 2021 Scientific School: Mathematics, Theoretical Physics and Mathematical Methods of Data Analysis in Neuroscience [(link)](https://brain.scientificideas.org/sirius-school/en).
+
+We study network portraits of model networks, C. elegans connectomes and human brain connectomes:
+- Properties of different networks' portraits
+- Comparison of networks based on Jensen-Shannon Divergence metric defined using network portraits
+- Resistance to randomization
+- Attacks on networks: dynamics & properties
+- How portraits reflect other network properties
+- Reconstructing the graph by its portrait: approaches & uniqueness
 
 The work is inspired by [Bagrow & Bollt, 2019](https://doi.org/10.1007/s41109-019-0156-x).
 
 View project's final [presentation](https://docs.google.com/presentation/d/1HKaksL892e7ukNYzRvHkvWK-PFPo3V-RFO6PCoXvQMs/edit?usp=sharing).
-
 
 
 ## Inside
@@ -18,6 +27,7 @@ View project's final [presentation](https://docs.google.com/presentation/d/1HKak
 - Portraits of model (regular & random) networks
 - Animations of model network portraits across parameter ranges
 - Implementation of attacks on networks (gradual node removal) in different modes
+
 
 ## Data
 - Model networks:
